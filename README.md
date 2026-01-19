@@ -2,7 +2,7 @@
 ## Project Overview
 This project applies Natural Language Processing (NLP) to a centuries-old literary debate: Is Mary Shelley (Frankenstein, The Last Man) a Gothic Horror author, or the progenitor of Science Fiction?
 
-Using a corpus of 44 novels from the Romantic, Victorian, and Modern eras, this study utilizes Structural Topic Modeling (STM) and Principal Component Analysis (PCA) to quantify the evolution of literary genres. The analysis proves that Shelley functions as an "Evolutionary Bridge"—her syntactic fingerprint remains rooted in Gothic tradition, while her thematic vocabulary pioneers the narrative structures of Science Fiction.
+Using a corpus of 44 novels from the Romantic, Victorian, and Modern eras, this study utilizes Structural Topic Modeling (STM) and Principal Component Analysis (PCA) to quantify the evolution of literary genres. The analysis proves that Shelley functions as an "Evolutionary Bridge, her syntactic fingerprint remains rooted in Gothic tradition, while her thematic vocabulary pioneers the narrative structures of Science Fiction.
 
 ## Key Features
 
@@ -18,7 +18,7 @@ Using a corpus of 44 novels from the Romantic, Victorian, and Modern eras, this 
 - Data Source: Project Gutenberg (via API).
 
 ## Project Context
-Developed as a Graduate Capstone Project for CSCI E-89b: Introduction to Natural Language Processing at Harvard Extension School (Harvard DCE).
+Developed as a Graduate Project for CSCI E-89b: Introduction to Natural Language Processing at Harvard Extension School (Harvard DCE).
 
 Focus: Advanced NLP, Unsupervised Learning, and Digital Humanities.
 
